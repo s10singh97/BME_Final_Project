@@ -1,4 +1,4 @@
-# BMEN 4460 Final Project: 'ATTENTION (AND DATA AUGMENTATION) IS ALL YOU NEED TO IMPROVE TRANSFORMER-BASED 3D BRAIN SEGMENTATION'
+# BMEN 4460 Final Project: 'Attention (and Data Augmentation) Is All You Need To Improve Transformer-Based 3D Brain Segmentation'
 
 ### Submitted by Siddhant Sanghi (ss5943) Shashwat Singh (ss6373) Matthew Spotnitz (mes2165)
 
