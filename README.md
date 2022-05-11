@@ -1,6 +1,9 @@
-# BME Final Project
+# BMEN 4460 Final Project: ''
 
 ### Submitted by Siddhant Sanghi (ss5943) Shashwat Singh (ss6373) Matthew Spotnitz (mes2165)
+
+![alt text](https://github.com/s10singh97/BME_Final_Project/blob/main/architecture.jpg?raw=true)
+
 
 ## Method to run code
 This code can be easily run on Kaggle Notebook by adding the SALD dataset and changing the path to the respective directories.
