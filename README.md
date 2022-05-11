@@ -16,4 +16,4 @@ Differentiating among brain tissues in medical imaging is an active area of rese
 ## Citation
 
 *Rao VM, Wan Z, Ma DJ, Lee P-Y, Tain Y, Laine AF, Guo  J. IMPROVING ACROSS-DATASET BRAIN TISSUE SEGMENTATION USING TRANSFORMER. (2022). Arxiv.*
-https://github.com/raovish6/TABS(https://github.com/raovish6/TABS)
+(https://github.com/raovish6/TABS)
